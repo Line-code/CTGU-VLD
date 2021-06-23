@@ -1,3 +1,3 @@
 # CTGU-VLD
 CTGU-VLD dataset
-![Image][https://pan.baidu.com/s/17olxYVVmdqzmQLiFPOf9RA]
+![Line_code_CTGU.png](https://i.loli.net/2021/06/23/PF2i49VmrwbNlfj.png)
